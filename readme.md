@@ -9,5 +9,5 @@
 - Не использовать стандартное пространство имён (using namespace std).
 
 ## СПРАВКА
-- http://graecolatini.bsu.by/htm-different/num-converter-roman.htm
+- про римские цифры: http://graecolatini.bsu.by/htm-different/num-converter-roman.htm
 - switch: https://www.youtube.com/watch?v=Hk4yo4tr5Ts
